@@ -1,0 +1,13 @@
+world vps - World Visualparts Script
+
+Just open __main__.py, with File Explorer or CMD
+
+- Type the car's name
+- Select the parts you want to use
+- Hit "generate" and that’s it!
+
+
+This script will generate two files:
+
+- .nfsms file for use with VLTEd.
+- .xml file for "catalog" from offline server.
